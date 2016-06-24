@@ -1,0 +1,14 @@
+.DS_Store
+.coverage
+env/
+build/
+dist/
+*.egg
+*.egg-info/
+*.py[cod]
+*.sock
+local_settings.py
+*.swp
+*.log
+id_rsa*
+*.pos
